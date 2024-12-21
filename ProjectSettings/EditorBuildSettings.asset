@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/XR-GaitMeasurer/Demo.unity
+    guid: 757ea095df0e27442b99d6e07a5bec57
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5aeb3c0a44ef141fe8a39a9b39724ef8, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c93bdc530e1774b68bafddc2916ce631, type: 2}
